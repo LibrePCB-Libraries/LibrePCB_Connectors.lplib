@@ -1,13 +1,11 @@
-(librepcb_library
- (uuid 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
- (version "0.0.1")
- (author "LibrePCB")
- (created 2016-09-28T21:48:03Z)
- (modified 2016-09-28T21:48:03Z)
- (deprecated false)
+(librepcb_library 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6
  (name "LibrePCB Connectors")
  (description "Official LibrePCB Connectors")
  (keywords "")
+ (author "LibrePCB")
+ (version "0.0.1")
+ (created 2016-09-28T21:48:03Z)
+ (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib")
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
