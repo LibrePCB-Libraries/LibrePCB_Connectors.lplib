@@ -31,10 +31,10 @@
   (gate 57a78a43-614a-4601-857d-47d8684a8ab0
    (symbol 5ce43da4-ff3e-4617-99cd-545a6286e666)
    (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin c785cf03-7f57-4cbd-9cd2-7570cc68b9dd (signal ec231c5a-622e-4e59-8c4d-d76a826c8ec2) (text pin))
-   (pin a1b9b032-4944-4a92-9686-51df6afa1608 (signal 5847c1d4-279e-4d43-87c9-9e29e4ff5ef7) (text pin))
    (pin 0c4d8889-37c7-4489-a524-fb46778512fc (signal dce05914-210d-4472-a60c-fe5a160b956c) (text pin))
+   (pin a1b9b032-4944-4a92-9686-51df6afa1608 (signal 5847c1d4-279e-4d43-87c9-9e29e4ff5ef7) (text pin))
    (pin ab4a222a-bcab-46f1-a9cd-20d8135875b3 (signal 6d95e20c-2186-435e-8393-48cdb1a3e56c) (text pin))
+   (pin c785cf03-7f57-4cbd-9cd2-7570cc68b9dd (signal ec231c5a-622e-4e59-8c4d-d76a826c8ec2) (text pin))
    (pin c96fa243-aa30-4243-8ada-2ceab9875c36 (signal 5be38db9-a5d2-427f-9903-d7c4e5d6383b) (text pin))
   )
  )

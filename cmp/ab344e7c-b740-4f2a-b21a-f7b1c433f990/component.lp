@@ -22,8 +22,8 @@
   (gate 23f3bc73-5f17-44e3-ac44-2bc61951f32c
    (symbol df138f86-d378-4465-bee1-c2b0b7d32cef)
    (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin e313439d-b34a-43cd-bbb6-61626a40fd32 (signal 9e3c2d0e-7bc0-42e9-a562-f21ef061126a) (text pin))
    (pin 8c43a15d-5e7b-465f-b51e-5f482a4b6eb3 (signal 4b7490ca-af89-4dd9-beff-9edc631e7d9b) (text pin))
+   (pin e313439d-b34a-43cd-bbb6-61626a40fd32 (signal 9e3c2d0e-7bc0-42e9-a562-f21ef061126a) (text pin))
   )
  )
 )
