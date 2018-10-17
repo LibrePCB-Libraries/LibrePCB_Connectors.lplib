@@ -1,0 +1,13 @@
+(librepcb_device 9534ba13-1327-42fa-9267-2fd8512e0e21
+ (name "Generic Pin Header 2.54mm 1x1 ⌀1.1mm")
+ (description "A 1x1 generic male pin header with 2.54mm pin spacing and 1.1mm drill holes.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
+ (keywords "connector, 1x1, d1.1, pin header, male header, tht, generic")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2018-10-17T19:13:41Z)
+ (deprecated false)
+ (category 4a4e3c72-94fb-45f9-a6d8-122d2af16fb1)
+ (component 04efea01-e0a3-4cb0-b30a-58099a4525f7)
+ (package 1e379491-e8bd-4851-ab03-15f5fee37044)
+ (pad bc6d43e4-e1fd-4983-98ce-5f51920b0cf5 (signal 0a2f8ad3-5e0c-4d72-82d9-bd3edbd95475))
+)
