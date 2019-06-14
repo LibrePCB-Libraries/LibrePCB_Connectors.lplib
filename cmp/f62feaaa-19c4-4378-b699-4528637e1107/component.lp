@@ -1,9 +1,9 @@
 (librepcb_component f62feaaa-19c4-4378-b699-4528637e1107
- (name "Soldered Wire Connector 1x2")
+ (name "Generic Connector 1x2")
  (description "A 1x2 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x2, connector, soldering, generic")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-10-17T19:13:41Z)
  (deprecated false)
  (category d0618c29-0436-42da-a388-fdadf7b23892)

@@ -1,9 +1,9 @@
 (librepcb_component a19781b6-0837-4f7c-9be3-a62431b956cc
- (name "Soldered Wire Connector 1x38")
+ (name "Generic Connector 1x38")
  (description "A 1x38 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x38, connector, soldering, generic")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-10-17T19:13:41Z)
  (deprecated false)
  (category d0618c29-0436-42da-a388-fdadf7b23892)

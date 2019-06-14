@@ -1,9 +1,9 @@
 (librepcb_component 0f32efe5-bb13-45bd-bc0e-f5782560a904
- (name "Soldered Wire Connector 1x16")
+ (name "Generic Connector 1x16")
  (description "A 1x16 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x16, connector, soldering, generic")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-10-17T19:13:41Z)
  (deprecated false)
  (category d0618c29-0436-42da-a388-fdadf7b23892)

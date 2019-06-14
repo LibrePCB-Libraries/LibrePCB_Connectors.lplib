@@ -1,9 +1,9 @@
 (librepcb_component 929ec75d-fb4e-496d-be89-4b1df4d20ee1
- (name "Soldered Wire Connector 1x31")
+ (name "Generic Connector 1x31")
  (description "A 1x31 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x31, connector, soldering, generic")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-10-17T19:13:41Z)
  (deprecated false)
  (category d0618c29-0436-42da-a388-fdadf7b23892)

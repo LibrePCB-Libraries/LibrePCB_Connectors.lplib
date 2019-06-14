@@ -1,9 +1,9 @@
 (librepcb_component fbf742d9-5c74-454e-ba7b-e9afc9ded61a
- (name "Soldered Wire Connector 1x9")
+ (name "Generic Connector 1x9")
  (description "A 1x9 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x9, connector, soldering, generic")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-10-17T19:13:41Z)
  (deprecated false)
  (category d0618c29-0436-42da-a388-fdadf7b23892)
