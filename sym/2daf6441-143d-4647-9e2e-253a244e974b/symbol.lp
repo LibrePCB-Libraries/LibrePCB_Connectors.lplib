@@ -1,5 +1,5 @@
 (librepcb_symbol 2daf6441-143d-4647-9e2e-253a244e974b
- (name "Pin Header 1x8")
+ (name "Pin Header 1x08")
  (description "A 1x8 male pin header.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, pin header, male header")
  (author "Danilo B.")

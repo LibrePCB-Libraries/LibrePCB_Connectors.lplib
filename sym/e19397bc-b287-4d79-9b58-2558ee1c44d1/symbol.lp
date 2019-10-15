@@ -1,5 +1,5 @@
 (librepcb_symbol e19397bc-b287-4d79-9b58-2558ee1c44d1
- (name "Connector 1x9")
+ (name "Connector 1x09")
  (description "A 1x9 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x9, connector, generic")
  (author "Danilo B.")

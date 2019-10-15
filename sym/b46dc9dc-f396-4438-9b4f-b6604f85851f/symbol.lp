@@ -1,5 +1,5 @@
 (librepcb_symbol b46dc9dc-f396-4438-9b4f-b6604f85851f
- (name "Pin Header 1x3")
+ (name "Pin Header 1x03")
  (description "A 1x3 male pin header.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x3, pin header, male header")
  (author "Danilo B.")

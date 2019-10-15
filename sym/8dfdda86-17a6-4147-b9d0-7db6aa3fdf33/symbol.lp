@@ -1,5 +1,5 @@
 (librepcb_symbol 8dfdda86-17a6-4147-b9d0-7db6aa3fdf33
- (name "Connector 1x8")
+ (name "Connector 1x08")
  (description "A 1x8 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, connector, generic")
  (author "Danilo B.")
