@@ -1,5 +1,5 @@
 (librepcb_component a42f7217-8445-419b-b665-470f6ecffba0
- (name "Soldered Wire Connector 1x6")
+ (name "Soldered Wire Connector 1x06")
  (description "A 1x6 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x6, connector, soldering, generic")
  (author "Danilo B.")

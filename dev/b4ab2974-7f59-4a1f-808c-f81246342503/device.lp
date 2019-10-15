@@ -1,5 +1,5 @@
 (librepcb_device b4ab2974-7f59-4a1f-808c-f81246342503
- (name "Generic Pin Header 2.54mm 1x8 ⌀1.0mm")
+ (name "Generic Pin Header 2.54mm 1x08 ⌀1.0mm")
  (description "A 1x8 generic male pin header with 2.54mm pin spacing and 1.0mm drill holes.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, d1.0, pin header, male header, tht, generic")
  (author "Danilo B.")

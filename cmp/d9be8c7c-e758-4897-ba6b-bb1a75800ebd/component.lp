@@ -1,5 +1,5 @@
 (librepcb_component d9be8c7c-e758-4897-ba6b-bb1a75800ebd
- (name "Pin Header 1x8")
+ (name "Pin Header 1x08")
  (description "A 1x8 male pin header.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, pin header, male header")
  (author "Danilo B.")

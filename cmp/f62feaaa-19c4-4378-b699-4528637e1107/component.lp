@@ -1,5 +1,5 @@
 (librepcb_component f62feaaa-19c4-4378-b699-4528637e1107
- (name "Soldered Wire Connector 1x2")
+ (name "Soldered Wire Connector 1x02")
  (description "A 1x2 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x2, connector, soldering, generic")
  (author "Danilo B.")

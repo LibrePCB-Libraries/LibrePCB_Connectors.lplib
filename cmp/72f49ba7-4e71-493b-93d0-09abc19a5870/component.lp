@@ -1,5 +1,5 @@
 (librepcb_component 72f49ba7-4e71-493b-93d0-09abc19a5870
- (name "Pin Socket 1x5")
+ (name "Pin Socket 1x05")
  (description "A 1x5 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x5, pin socket, female header")
  (author "Danilo B.")
