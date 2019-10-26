@@ -1,5 +1,5 @@
 (librepcb_device ea0a9752-ab6e-4f90-95fd-21a5bb6ee1d9
- (name "Generic Pin Socket 2.54mm 1x3 ⌀1.1mm")
+ (name "Generic Pin Socket 2.54mm 1x03 ⌀1.1mm")
  (description "A 1x3 generic female pin socket with 2.54mm pin spacing and 1.1mm drill holes.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x3, d1.1, pin socket, female header, tht, generic")
  (author "Danilo B.")

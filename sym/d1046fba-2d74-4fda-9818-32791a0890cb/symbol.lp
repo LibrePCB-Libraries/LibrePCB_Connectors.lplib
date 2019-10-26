@@ -1,5 +1,5 @@
 (librepcb_symbol d1046fba-2d74-4fda-9818-32791a0890cb
- (name "Connector 1x4")
+ (name "Connector 1x04")
  (description "A 1x4 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x4, connector, generic")
  (author "Danilo B.")

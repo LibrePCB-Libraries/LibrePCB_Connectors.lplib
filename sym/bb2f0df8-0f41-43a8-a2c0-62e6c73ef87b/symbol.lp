@@ -1,5 +1,5 @@
 (librepcb_symbol bb2f0df8-0f41-43a8-a2c0-62e6c73ef87b
- (name "Connector 1x7")
+ (name "Connector 1x07")
  (description "A 1x7 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x7, connector, generic")
  (author "Danilo B.")

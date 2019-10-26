@@ -1,5 +1,5 @@
 (librepcb_component 75b65ae7-ab48-4c4d-a4ec-5a5070377a35
- (name "Pin Header 1x9")
+ (name "Pin Header 1x09")
  (description "A 1x9 male pin header.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x9, pin header, male header")
  (author "Danilo B.")

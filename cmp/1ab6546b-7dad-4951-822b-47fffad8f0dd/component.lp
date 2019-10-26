@@ -1,5 +1,5 @@
 (librepcb_component 1ab6546b-7dad-4951-822b-47fffad8f0dd
- (name "Pin Socket 1x1")
+ (name "Pin Socket 1x01")
  (description "A 1x1 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x1, pin socket, female header")
  (author "Danilo B.")

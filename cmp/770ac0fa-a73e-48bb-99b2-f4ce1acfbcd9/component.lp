@@ -1,5 +1,5 @@
 (librepcb_component 770ac0fa-a73e-48bb-99b2-f4ce1acfbcd9
- (name "Pin Socket 1x8")
+ (name "Pin Socket 1x08")
  (description "A 1x8 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, pin socket, female header")
  (author "Danilo B.")

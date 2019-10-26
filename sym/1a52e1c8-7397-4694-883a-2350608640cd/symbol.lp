@@ -1,5 +1,5 @@
 (librepcb_symbol 1a52e1c8-7397-4694-883a-2350608640cd
- (name "Pin Header 1x6")
+ (name "Pin Header 1x06")
  (description "A 1x6 male pin header.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x6, pin header, male header")
  (author "Danilo B.")

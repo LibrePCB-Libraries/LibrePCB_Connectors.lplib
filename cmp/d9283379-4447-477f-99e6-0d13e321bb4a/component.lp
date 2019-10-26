@@ -1,5 +1,5 @@
 (librepcb_component d9283379-4447-477f-99e6-0d13e321bb4a
- (name "Soldered Wire Connector 1x8")
+ (name "Soldered Wire Connector 1x08")
  (description "A 1x8 soldered wire connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x8, connector, soldering, generic")
  (author "Danilo B.")

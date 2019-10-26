@@ -1,5 +1,5 @@
 (librepcb_symbol 94a76385-4db7-486b-965a-90ffd60c5126
- (name "Connector 1x3")
+ (name "Connector 1x03")
  (description "A 1x3 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x3, connector, generic")
  (author "Danilo B.")

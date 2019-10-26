@@ -1,5 +1,5 @@
 (librepcb_component dc4f0779-7975-46f7-8306-9072da248c1a
- (name "Pin Socket 1x9")
+ (name "Pin Socket 1x09")
  (description "A 1x9 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x9, pin socket, female header")
  (author "Danilo B.")

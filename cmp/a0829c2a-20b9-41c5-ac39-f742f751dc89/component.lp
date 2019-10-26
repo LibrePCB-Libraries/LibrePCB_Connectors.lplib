@@ -1,5 +1,5 @@
 (librepcb_component a0829c2a-20b9-41c5-ac39-f742f751dc89
- (name "Pin Socket 1x6")
+ (name "Pin Socket 1x06")
  (description "A 1x6 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x6, pin socket, female header")
  (author "Danilo B.")

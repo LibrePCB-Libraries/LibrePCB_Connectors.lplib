@@ -1,5 +1,5 @@
 (librepcb_symbol 85be7ed4-a22d-428d-aad5-12d0656219ca
- (name "Connector 1x6")
+ (name "Connector 1x06")
  (description "A 1x6 connector.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x6, connector, generic")
  (author "Danilo B.")

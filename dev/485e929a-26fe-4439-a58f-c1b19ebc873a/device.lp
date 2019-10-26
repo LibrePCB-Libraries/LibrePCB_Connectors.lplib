@@ -1,5 +1,5 @@
 (librepcb_device 485e929a-26fe-4439-a58f-c1b19ebc873a
- (name "Soldered Wire Connector 2.54mm 1x1 ⌀1.0mm")
+ (name "Soldered Wire Connector 2.54mm 1x01 ⌀1.0mm")
  (description "A 1x1 generic soldered wire connector with 2.54mm pin spacing and 1.0mm drill holes.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x1, d1.0, connector, soldering, generic")
  (author "Danilo B.")
