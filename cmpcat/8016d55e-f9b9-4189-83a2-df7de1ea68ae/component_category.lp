@@ -1,0 +1,10 @@
+(librepcb_component_category 8016d55e-f9b9-4189-83a2-df7de1ea68ae
+ (name "Spacers")
+ (description "")
+ (keywords "")
+ (author "eto-")
+ (version "0.1")
+ (created 2023-10-20T15:06:25Z)
+ (deprecated false)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
+)
